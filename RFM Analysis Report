@@ -1,0 +1,84 @@
+Deep-Dive Analysis Report
+
+1. Core KPIs Defined
+
+Total Sales: ₹ 6,18,472.40
+
+Total Orders: 4,922
+
+Average Order Value (AOV): ₹ 930.03
+
+Unique Customers: 665
+
+2. Deep-Dive Methodology 
+
+A Segmentation Analysis was conducted using the RFM (Recency, Frequency, Monetary) model:
+
+Recency: Days since last purchase
+
+Frequency: Number of orders per customer
+
+Monetary: Total spending
+
+Customers were scored (1–5) and segmented into behavioral groups:
+
+Champions
+
+Loyal Customers
+
+Big Spenders
+
+At Risk
+
+Others
+
+3. Key Insights (Based on  RFM ANALYSIS)
+🟢 Champions (20 Customers)
+
+Top-performing customers with high recency, frequency, and spending
+
+Small but most valuable segment
+
+👉 Strategy: Loyalty programs, VIP offers
+
+🔵 Loyal Customers (246 Customers)
+
+Largest valuable segment
+
+Frequent and consistent buyers
+
+👉 Strategy: Upselling, cross-selling, personalized recommendations
+
+🟡 Big Spenders (106 Customers)
+
+High spending but less frequent purchases
+
+👉 Strategy: Encourage repeat purchases with targeted offers
+
+🔴 At-Risk Customers (146 Customers)
+
+Haven’t purchased recently
+
+High chance of churn
+
+👉 Strategy: Re-engagement campaigns, discounts
+
+⚪ Others (147 Customers)
+
+Moderate/low engagement customers
+
+👉 Strategy: Improve engagement through marketing campaigns
+
+4. Business Impact
+
+-> Identified high-value customer segments (Champions & Loyal)
+
+-> Detected 146 at-risk customers, enabling proactive retention strategies
+
+-> Found that Loyal Customers (246) drive consistent revenue
+
+-> Segmentation supports targeted marketing & personalization
+
+5. Conclusion
+
+The RFM-based segmentation effectively highlights customer behavior patterns, enabling the business to improve retention, maximize revenue, and design targeted marketing strategies.
